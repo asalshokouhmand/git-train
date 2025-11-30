@@ -55,4 +55,4 @@ num2 = float(input('enter the number:'))
 
 result = calculater(num1 ,num2)
 
-print(result)
+# print(result)
