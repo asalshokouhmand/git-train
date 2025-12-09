@@ -12,4 +12,4 @@ def number_type(number):
 while True:
     num = input('enter your number: ')
     number_type(num)       
-    
+     
