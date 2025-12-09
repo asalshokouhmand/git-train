@@ -1,5 +1,5 @@
 
-name = input("enter your name: ")
+
 def myfunc(name):
     
     ups = 0
@@ -14,6 +14,7 @@ def myfunc(name):
 
     print(f"upper cases: {ups}")
     print(f"lower cases: {low}")
-
-myfunc(name)
+while True:
+    name = input("enter your name: ")
+    myfunc(name)
     
