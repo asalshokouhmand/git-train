@@ -21,4 +21,6 @@ def game(player_1, player_2):
         print("Player 2 wins!")
     elif player_1 == "scissor" and player_2 == "scissor":
         print("Draw")
+
+
 game(player_1, player_2)
